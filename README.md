@@ -18,7 +18,7 @@ There are many planets, you start on Earth and have to farm resources to build s
         -Mit Eisen kann man Blöcke craften/Mit Holz Kisten
         -Mit Holz und Seilen craftet man einen Bogen mit Pfeilen und man kann Tiere töten für Essen und Leder
       -Scanner benutzen um Erze zu finden
-       -Wichte Erze finden: Silicium, Gold, Eisen(Man bekommt mehr Eisen aus Eisenerz als Stein)
+       -Wichte Erze finden: Silicium, Gold, Kupfer, Eisen(Man bekommt mehr Eisen aus Eisenerz als Stein)
       
     -Nahrung
       -Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
