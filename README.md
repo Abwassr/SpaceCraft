@@ -8,9 +8,11 @@ There are many planets, you start on Earth and have to farm resources to build s
 [ ] S 
 
 ### Spielverlauf
-  - Batterien
-  - Steine
-    - Spitzhacke
-    - Schaufel
-    - etc
-  - Eisen
+  -Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen)
+    -Im Inventar: Bauplan (Bauen), Spitzhacke (Abbauen), "Schleifgerät" (Gebaute Struckturen abbauen)
+    
+  -Start mit Abbau von Stein/Holz
+    -Stein in Ofen für Eisen, Holz in Werkbank für Planken
+    -
+  
+ 
