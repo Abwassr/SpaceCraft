@@ -33,3 +33,7 @@ There are many planets, you start on Earth and have to farm resources to build s
      -Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten für Items
      -Tiere (Rehe, Vögel) kann man töten für Items
      -Tiere (Bären, Tiger) greifen an geben aber bessere Items
+     
+     
+### Advancements
+
