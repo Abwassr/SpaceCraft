@@ -30,4 +30,6 @@ There are many planets, you start on Earth and have to farm resources to build s
       -am Ende des Rohrs (also and der Montageanlage) kommt eine Pumpe die mit Strom verbunden werden muss
       
     -Tierzucht
-     -Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten
+     -Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten für Items
+     -Tiere (Rehe, Vögel) kann man töten für Items
+     -Tiere (Bären, Tiger) greifen an geben aber bessere Items
