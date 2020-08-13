@@ -10,7 +10,7 @@ There are many planets, you start on Earth and have to farm resources to build s
 ### Spielverlauf
  -Spielanfang
  
-  -Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen, Kiste(Inhalt: Scanner, Seile, Leder, Heilung, Essen, Trinken)
+   -Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen, Kiste(Inhalt: Scanner, Seile, Leder, Heilung, Essen, Trinken)
       -Im Inventar: Bauplan (Bauen), Spitzhacke (Abbauen), "Schleifgerät" (Gebaute Struckturen abbauen)
     
     -Start mit Abbau von Stein/Erze/Holz
