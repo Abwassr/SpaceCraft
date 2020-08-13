@@ -19,6 +19,3 @@ There are many planets, you start on Earth and have to farm resources to build s
   -Nahrung
     -Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
     -Trinken bekommt man wenn man Eis aufwärmt oder durch einen "Tau aufsammler"
-    
-  -
-    
