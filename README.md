@@ -27,4 +27,7 @@ There are many planets, you start on Earth and have to farm resources to build s
        
     -Anfang mit Automatisieren
      -man baut einen Schmelzofen und eine Montageanlage und verbindet diese mit einem kleinem Rohr
-      -am Ende des Rohrs (also and der Montageanlage) kommt eine Pumpe
+      -am Ende des Rohrs (also and der Montageanlage) kommt eine Pumpe die mit Strom verbunden werden muss
+      
+    -Tierzucht
+     -Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten
