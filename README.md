@@ -62,4 +62,4 @@ There are many planets, you start on Earth and have to farm resources to build s
 
 ### Unlock new Blocks
 
- -Bessere Blöcke (z.B. Pipes, Motoren, Container) brauchen seltenere Erze die sich auf Asteoriden/Planeten befinden. Je weiter weg desto wertvollere Erze
+ - Bessere Blöcke (z.B. Pipes, Motoren, Container) brauchen seltenere Erze die sich auf Asteoriden/Planeten befinden. Je weiter weg desto wertvollere Erze
