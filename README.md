@@ -7,13 +7,13 @@ There are many planets, you start on Earth and have to farm resources to build s
 ### Spielverlauf
 #### Spielanfang
  
-    - Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen, Kiste(Inhalt: Scanner, Seile, Leder, Heilung, Essen, Trinken)
-      - Im Inventar: Bauplan (Bauen), Spitzhacke (Abbauen), "Schleifgerät" (Gebaute Struckturen abbauen)
+ - Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen, Kiste(Inhalt: Scanner, Seile, Leder, Heilung, Essen, Trinken)
+  - Im Inventar: Bauplan (Bauen), Spitzhacke (Abbauen), "Schleifgerät" (Gebaute Struckturen abbauen)
     
-    - Start mit Abbau von Stein/Erze/Holz
-      - Stein in Ofen für Eisen, Holz in Werkbank für Planken
-        - Mit Eisen kann man Blöcke craften/Mit Holz Kisten
-        - Mit Holz und Seilen craftet man einen Bogen mit Pfeilen und man kann Tiere töten für Essen und Leder
+ - Start mit Abbau von Stein/Erze/Holz
+  - Stein in Ofen für Eisen, Holz in Werkbank für Planken
+  - Mit Eisen kann man Blöcke craften/Mit Holz Kisten
+   - Mit Holz und Seilen craftet man einen Bogen mit Pfeilen und man kann Tiere töten für Essen und Leder
       - Scanner benutzen um Erze zu finden
        - Wichte Erze finden: Silicium, Gold, Kupfer, Eisen(Man bekommt mehr Eisen aus Eisenerz als Stein)
       
