@@ -5,7 +5,7 @@ There are many planets, you start on Earth and have to farm resources to build s
 
 
 ### Spielverlauf
-##### Spielanfang
+#### Spielanfang
  
     -Start auf der Erde an einem zufälligem Ort mit kleiner Kapsel (Inhalt: Werkbank, Ofen, Kiste(Inhalt: Scanner, Seile, Leder, Heilung, Essen, Trinken)
       -Im Inventar: Bauplan (Bauen), Spitzhacke (Abbauen), "Schleifgerät" (Gebaute Struckturen abbauen)
@@ -35,7 +35,7 @@ There are many planets, you start on Earth and have to farm resources to build s
      -Tiere (Bären, Tiger) greifen an geben aber bessere Items
      
      
-##### Fortgeschrittenes Spiel
+#### Fortgeschrittenes Spiel
   
   - Bessere Blöcke
    - Man erforscht immer mehr von der Landschaft und findet immer mehr Erze um mehr zu bauen
