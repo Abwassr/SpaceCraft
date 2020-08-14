@@ -55,7 +55,13 @@ There are many planets, you start on Earth and have to farm resources to build s
    - Im All
      - Im All sollte man eine Station bauen die Luftdicht ist und mit Luft versorgt wird (dabei helfen Pflanzen und verschiedene Blöcke) 
      - Dann sollte man Asteoriden erkunden und die Erze (Wolfram, Platin, Uran) erkunden.
-    
+     
+   - Reisen
+     - Es gibt 2 Möglichkeiten zu anderen Planeten zu reisen
+       - Den Jump Drive: muss man erst aufladen und dann die Distanz einstellen wie weit man reisen will und drückt auf Start. Dann "Teleportet" man sich die eingestellte Distanz
+       - Wurmlöcher: muss man erschaffen in dem man sehr viel Energie aufwenden auf einen "Wurmloch Block" und dort ensteht ein Wurmloch wo man jeder zeit durchreisen kann. Damit man aber auf der anderen Seite ist wo man will braucht man noch einen "Wurmloch Ermittler" mit dem man die grobe position von dem anderen Wumloch herausbekommt.
+       
+       
 
 ### Advancements
 
