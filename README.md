@@ -18,8 +18,8 @@ There are many planets, you start on Earth and have to farm resources to build s
         - Wichte Erze finden: Silicium, Gold, Kupfer, Eisen(Man bekommt mehr Eisen aus Eisenerz als Stein)
       
   - Nahrung
-   - Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
-   - Trinken bekommt man wenn man Eis aufwärmt oder durch einen "Tau aufsammler"
+    - Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
+    - Trinken bekommt man wenn man Eis aufwärmt oder durch einen "Tau aufsammler"
       
   - Start mit anbauen
     - Ein Blumenbeet (Crop Plot) bauen und auf einen Block setzen, Samen platzieren und bewässern
