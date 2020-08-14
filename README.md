@@ -17,22 +17,22 @@ There are many planets, you start on Earth and have to farm resources to build s
       - Scanner benutzen um Erze zu finden
        - Wichte Erze finden: Silicium, Gold, Kupfer, Eisen(Man bekommt mehr Eisen aus Eisenerz als Stein)
       
-    - Nahrung
-      - Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
-      - Trinken bekommt man wenn man Eis aufwärmt oder durch einen "Tau aufsammler"
+ - Nahrung
+  - Essen bekommt man durch Planzen (Beeren), Bäume (Äpfel) oder Fleisch (Tiere)
+  - Trinken bekommt man wenn man Eis aufwärmt oder durch einen "Tau aufsammler"
       
-     - Start mit anbauen
-      - Ein Blumenbeet (Crop Plot) bauen und auf einen Block setzen, Samen platzieren und bewässern
-       - warten bis fertiggewachsen und Früchte ernten
+  - Start mit anbauen
+   - Ein Blumenbeet (Crop Plot) bauen und auf einen Block setzen, Samen platzieren und bewässern
+    - warten bis fertiggewachsen und Früchte ernten
        
-    - Anfang mit Automatisieren
-     - man baut einen Schmelzofen und eine Montageanlage und verbindet diese mit einem kleinem Rohr
-      - am Ende des Rohrs (also and der Montageanlage) kommt eine Pumpe die mit Strom verbunden werden muss
+ - Anfang mit Automatisieren
+  - man baut einen Schmelzofen und eine Montageanlage und verbindet diese mit einem kleinem Rohr
+   - am Ende des Rohrs (also and der Montageanlage) kommt eine Pumpe die mit Strom verbunden werden muss
       
-    - Tierzucht
-     - Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten für Items
-     - Tiere (Rehe, Vögel) kann man töten für Items
-     - Tiere (Bären, Tiger) greifen an geben aber bessere Items
+ - Tierzucht
+  - Tiere (Kühe, Schafe, Hühner, Schweine) kann man züchten für Items
+  - Tiere (Rehe, Vögel) kann man töten für Items
+  - Tiere (Bären, Tiger) greifen an geben aber bessere Items
      
      
 #### Fortgeschrittenes Spiel
