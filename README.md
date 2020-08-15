@@ -74,7 +74,7 @@ There are many planets, you start on Earth and have to farm resources to build s
 
 - Handeln
   - Es gibt eine Währung im Spiel. sobalt man mit NPCs handelt bekommt man welches. 
-    -Mit der Währung kann man andere Items im spiel kaufen
+    - Mit der Währung kann man andere Items im spiel kaufen
   - Man kann auch später mit einem Intergalaktischem handelsautomaten handeln.
 
   
