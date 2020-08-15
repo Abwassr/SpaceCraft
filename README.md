@@ -61,7 +61,23 @@ There are many planets, you start on Earth and have to farm resources to build s
        - Den Jump Drive: muss man erst aufladen und dann die Distanz einstellen wie weit man reisen will und drückt auf Start. Dann "Teleportet" man sich die eingestellte Distanz
        - Wurmlöcher: muss man erschaffen in dem man sehr viel Energie aufwenden auf einen "Wurmloch Block" und dort ensteht ein Wurmloch wo man jeder zeit durchreisen kann. Damit man aber auf der anderen Seite ist wo man will braucht man noch einen "Wurmloch Ermittler" mit dem man die grobe position von dem anderen Wumloch herausbekommt.
        
-       
+
+#### Fortgeschrittenes Mid-Game
+
+- NPCs
+  - Böse
+    - Böse NPCs kreifen einen sofort an.
+  - Gute
+    - Gute NPCs können handeln wenn sie aber tot sind bleiben sie es
+    
+  
+
+- Handeln
+  - Es gibt eine Währung im Spiel. sobalt man mit NPCs handelt bekommt man welches. 
+    -Mit der Währung kann man andere Items im spiel kaufen
+  - Man kann auch später mit einem Intergalaktischem handelsautomaten handeln.
+
+  
 
 ### Advancements
 
