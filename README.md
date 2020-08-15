@@ -78,6 +78,9 @@ There are many planets, you start on Earth and have to farm resources to build s
   - Man kann auch später mit einem ``Intergalaktischem handelsautomaten`` handeln.
 
   
+#### Endgame
+
+   - Man ist frei... man kann alles machen was man will
 
 ### Advancements
 
