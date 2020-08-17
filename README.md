@@ -66,7 +66,7 @@ There are many planets, you start on Earth and have to farm resources to build s
 
 - NPCs
   - ``Böse``
-    - Böse NPCs kreifen einen sofort an.
+    - Böse NPCs greifen einen sofort an.
   - ``Gute``
     - Gute NPCs können handeln wenn sie aber tot sind bleiben sie es
     
