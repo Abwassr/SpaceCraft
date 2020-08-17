@@ -50,11 +50,13 @@ There are many planets, you start on Earth and have to farm resources to build s
     - Um in das All zu kommen Benötigt man eine Rakete und einen Raumanzug
      - eine ``Rakete`` wird aus Blöcken gebaut und unten kommt eine ``Düse`` hin, die ``Rakete`` sollte von den Blöcken komplett ausgefüllt sein da diese sonst bein Austritt/Wiedereintritt in die Atmosphäre kaputt gehen
      - einen ``Raumanzug`` besteht aus -> ``Schuhe``, ``Hose``, ``Jacke``, ``Handschuhe``, ``Helm`` (Optional: ``Jetpack``) <-  wenn man alle teile ausgerüstet hat kann man dadurch Atmen (wenn der Anzug Sauerstoff hat) dazu bringen die Schuhe dass man auf allen Blöcken laufen kann da diese Magnetisch sind
+     -die Rakete muss möglichst unterm Mond gebaut werden 
     
     
    - Im All
-     - Im All sollte man eine Station bauen die Luftdicht ist und mit Luft versorgt wird (dabei helfen Pflanzen und verschiedene Blöcke) 
-     - Dann sollte man Asteoriden erkunden und die Erze (``Wolfram``, ``Platin``, ``Uran``) erkunden.
+     -wärend man is All fliegt sollte man schon darauf achten dass man direkt gegen den Mond fliegt.
+     -wenn man im All ist muss man direkt gegen den Mond zu steuern und dagegen knallen (die Schutzblöcke 
+     
      
    - Reisen
      - Es gibt 2 Möglichkeiten zu anderen Planeten zu reisen
