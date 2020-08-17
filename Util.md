@@ -1,4 +1,6 @@
-# Stein
+
+
+# Stein 
 
  ### 1 Kg Stein in Ofen
     -> 0.1 Kg-0.2 Kg Eisen
@@ -7,5 +9,10 @@
     
 # Holz
 
- ### 1 Kg Holzstamm
+ ### 1 (Kg) Holzstamm
     -> 10 Holzplanken
+    
+    
+# 1 Kg Eisen 
+    -> 40 Schrauben
+    -> 4 Metallplatten
