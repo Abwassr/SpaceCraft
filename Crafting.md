@@ -1,5 +1,5 @@
 # Crafting Recipes
 
 ### Iron Plate
-    -Machine: Assembler
+    -Machine: Craftingbench
     -Ingredients: 10 Iron
