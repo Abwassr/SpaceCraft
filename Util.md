@@ -28,7 +28,7 @@
 
 
 
-# 1 Kg Gold
+# 1 Kg Nickel
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-# 1 Kg Nickel
+# 1 Kg Gold
 
 
 
