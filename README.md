@@ -55,7 +55,7 @@ There are many planets, you start on Earth and have to farm resources to build s
      - wenn alles passt setzt man sich in die Rakete, startet die Triebwerke und stellt die Verbing zur Zentrale her. Dann sieht man (wenn man im Cockpit sitzt) eine linie der man nachfliegen sollte.
      
      
-   - Die Zentrale
+  - Die Zentrale
     - Um eine Zentrale zu bauen benötigt man einen NPC der an einem Weltraumcompter sitzt um die beste Route zu finden
     - Damit man die auf dem Raumschiff sehen kann braucht die Zentrale eine Antenne und dass Raumschiff
     
