@@ -69,3 +69,8 @@
 
 
 # 1 Kg Uranium
+
+
+
+
+# Palladium
