@@ -79,7 +79,7 @@
 
 # Alien Planet
 
-### 1 Kg Palladium
+### 1 Kg Thorium
 
 
 
