@@ -23,12 +23,17 @@
 
 
 
+# 1 Kg Nickel
+
+
+
+
 # 1 Kg Kupfer
 
 
 
 
-# 1 Kg Nickel
+# Silber
 
 
 
@@ -49,6 +54,11 @@
 
 
 # 1 Kg Titan
+
+
+
+
+# 1 Kg Lithium
 
 
 
