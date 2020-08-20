@@ -61,8 +61,9 @@ There are many planets, you start on Earth and have to farm resources to build s
     
     
    - Im All
-     -wärend man is All fliegt sollte man schon darauf achten dass man direkt gegen den Mond fliegt.
-     -wenn man im All ist muss man direkt gegen den Mond zu steuern und dagegen knallen (die Schutzblöcke)
+     - wärend man is All fliegt sollte man schon darauf achten, dass man direkt gegen den Mond fliegt.
+     - wenn man im All ist muss man direkt gegen den Mond zu steuern und dagegen knallen (die Schutzblöcke)
+      - man kann auch noch Triebwerke bauen die abbremsen sind aber unnötig für den Anfang
      
      
    - Reisen
