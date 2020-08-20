@@ -1,4 +1,4 @@
-
+# Erde
 
 ### Stein 
 
@@ -38,6 +38,8 @@
 
 
 
+# Mond
+
 ### 1 Kg Wolfram
 
 
@@ -58,6 +60,8 @@
 
 
 
+# Tattoin
+
 ### 1 Kg Lithium
 
 
@@ -72,6 +76,8 @@
 
 
 
+
+# Alien Planet
 
 ### 1 Kg Palladium
 
