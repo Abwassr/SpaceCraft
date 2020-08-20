@@ -79,6 +79,8 @@ There are many planets, you start on Earth and have to farm resources to build s
     - Böse NPCs greifen einen sofort an.
   - ``Gute``
     - Gute NPCs können handeln wenn sie aber tot sind bleiben sie es
+  - ``Eigene Arbeiter``
+    - NPCs kann man einstellen die für einen arbeiten
     
   
 
