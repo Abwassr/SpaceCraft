@@ -54,3 +54,8 @@
 
 
 # 1 Kg Platin
+
+
+
+
+# 1 Kg Uranium
