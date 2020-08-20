@@ -50,12 +50,19 @@ There are many planets, you start on Earth and have to farm resources to build s
     - Um in das All zu kommen Benötigt man eine Rakete und einen Raumanzug
      - eine ``Rakete`` wird aus Blöcken gebaut und unten kommt eine ``Düse`` hin, die ``Rakete`` sollte von den Blöcken komplett ausgefüllt sein da diese sonst bein Austritt/Wiedereintritt in die Atmosphäre kaputt gehen
      - einen ``Raumanzug`` besteht aus -> ``Schuhe``, ``Hose``, ``Jacke``, ``Handschuhe``, ``Helm`` (Optional: ``Jetpack``) <-  wenn man alle teile ausgerüstet hat kann man dadurch Atmen (wenn der Anzug Sauerstoff hat) dazu bringen die Schuhe dass man auf allen Blöcken laufen kann da diese Magnetisch sind
-     -die Rakete muss möglichst unterm Mond gebaut werden 
+     - um den besten weg zum Mond zu bekommen (keine Asteoriten treffen) benötigt braucht man eine kleine Zentrale
+     
+     - wenn alles passt setzt man sich in die Rakete, startet die Triebwerke und stellt die Verbing zur Zentrale her. Dann sieht man (wenn man im Cockpit sitzt) eine linie der man nachfliegen sollte.
+     
+     
+   - Die Zentrale
+    - Um eine Zentrale zu bauen benötigt man einen NPC der an einem Weltraumcompter sitzt um die beste Route zu finden
+    - Damit man die auf dem Raumschiff sehen kann braucht die Zentrale eine Antenne und dass Raumschiff
     
     
    - Im All
      -wärend man is All fliegt sollte man schon darauf achten dass man direkt gegen den Mond fliegt.
-     -wenn man im All ist muss man direkt gegen den Mond zu steuern und dagegen knallen (die Schutzblöcke 
+     -wenn man im All ist muss man direkt gegen den Mond zu steuern und dagegen knallen (die Schutzblöcke)
      
      
    - Reisen
